@@ -29,7 +29,6 @@ Urban parking inefficiencies lead to congestion, time loss, and underutilization
 
 ## 📊 Architecture Diagram
 
-```mermaid
 flowchart TD
     A[📁 Raw Data (CSV)] --> B[🧹 Preprocessing & Feature Engineering]
     B --> C1[📈 Linear Pricing Model]
